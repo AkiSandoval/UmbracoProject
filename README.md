@@ -1,2 +1,0 @@
-# UmbracoProject
-TestUmbraco
